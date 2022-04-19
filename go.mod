@@ -1,4 +1,4 @@
-module github.com/algorand/falcon
+module github.com/algoidan/falcon
 
 go 1.16
 
